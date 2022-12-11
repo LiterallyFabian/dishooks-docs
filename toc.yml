@@ -1,5 +1,14 @@
 - name: Examples
   href: articles/
+  
 - name: API Reference
   href: api/
   homepage: api/index.md
+  
+- name: Release Notes
+  href: release-notes/
+  homepage: release-notes/index.md
+  
+- name: Purchase
+  href: https://assetstore.unity.com/packages/tools/network/dishooks-send-discord-messages-from-your-game-171381
+    

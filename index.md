@@ -18,17 +18,7 @@ A complete example scene and documentation included. Email support in English an
 ### File support 
 Dishooks supports sending files to Discord. You can send files from your computer, or from the web. You can also send files from your Unity project, such as screenshots or other files.
 
-
-## Installation
-1. Visit [the Unity Asset Store](https://assetstore.unity.com/packages/tools/network/dishooks-send-discord-messages-from-your-game-171381) and purchase Dishooks, or log in to an account that has already purchased it.
-2. Click "Open in Unity".
-3. In Unity, click "Import" in the popup window.
-4. Done! You can now use Dishooks in your project. Visit the example scene in `Dishooks/Example` to see how it works.
-
-## Documentation
-Dishooks is fully documented with XML documentation, and you can both read it in the code and [read it online](https://sajber.me/dishooks/api/index.html).
-
-## Support
-Feel free to send me an email at [lindgrenfabian@gmail.com](mailto:lindgrnefabian@gmail.com) if you have any questions. If you purchased Dishooks from the Unity Asset Store, please state your invoice number **or** order number found [here](https://assetstore.unity.com/orders).
+## Documentation & Support
+Dishooks is fully documented with XML documentation, and you can both read it in the code and [online](api). Full support is also included at [lindgrenfabian@gmail.com](mailto:lindgrnefabian@gmail.com). If you purchased Dishooks from the Unity Asset Store, please state your invoice number **or** order number found [here](https://assetstore.unity.com/orders) when emailing.
 
 Thank you for using Dishooks!
