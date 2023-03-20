@@ -3,7 +3,7 @@
     {
       "src": [
         {
-          "src": "../..",
+          "src": "../",
           "files": [
             "Assets/Dishooks/Scripts/*.cs",
             "Assets/Dishooks/Scripts/Embed/*.cs"
