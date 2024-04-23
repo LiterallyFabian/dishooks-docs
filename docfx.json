@@ -43,7 +43,8 @@
     "resource": [
       {
         "files": [
-          "articles/images/**"
+          "articles/images/**",
+          "img/**"
         ]
       }
     ],
