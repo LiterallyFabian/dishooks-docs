@@ -18,6 +18,8 @@ The asset comes with a complete example scene and documentation included. Email 
 Dishooks supports sending files to Discord. You can send files from your computer, or from the web. You can also send files from your Unity project, such as screenshots or other files.
 
 ## Documentation & Support
-Dishooks is fully documented with XML documentation, and you can both read it in the code and [online](api). Full support is also included at [lindgrenfabian@gmail.com](mailto:lindgrnefabian@gmail.com). If you purchased Dishooks from the Unity Asset Store, please state your invoice number **or** order number found [here](https://assetstore.unity.com/orders) when emailing.
+Dishooks is fully documented with XML documentation, and you can both read it in the code and [online](api). Full support is also included at [unity@sofia.kiwi](mailto:lindgrnefabian@gmail.com). If you purchased Dishooks from the Unity Asset Store, please state your invoice number **or** order number found [here](https://assetstore.unity.com/orders) when emailing.
 
 Thank you for using Dishooks!
+
+Sofia

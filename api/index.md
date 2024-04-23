@@ -4,7 +4,7 @@ Welcome to the Dishooks API reference! This documentation is generated from the 
 
 Use the navigation on the left to browse the API reference, or use the quick links below to go directly to the page you want to see.
 
-If anything is missing, unclear or incorrect, feel free to send me an email at [lindgrenfabian@gmail.com](mailto:lindgrnefabian@gmail.com). Please state your invoice number **or** order number if you purchased Dishooks from the Unity Asset Store, found [here](https://assetstore.unity.com/orders).
+If anything is missing, unclear or incorrect, feel free to send me an email at [unity@sofia.kiwi](mailto:lindgrnefabian@gmail.com). Please state your invoice number **or** order number if you purchased Dishooks from the Unity Asset Store, found [here](https://assetstore.unity.com/orders).
 
 ## Quick links
 
